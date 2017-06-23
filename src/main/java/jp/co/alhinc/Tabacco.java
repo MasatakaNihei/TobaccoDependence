@@ -1,5 +1,5 @@
 package jp.co.alhinc;
 
-public interface Tabako {
+public interface Tabacco {
 	public String smoking();
 }
